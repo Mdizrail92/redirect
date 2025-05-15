@@ -1,3 +1,3 @@
-if (typeof window !== "undefined") {
-  window.location.href = "/405";
-}
+// if (typeof window !== "undefined") {
+//   window.location.href = "/405";
+// }
